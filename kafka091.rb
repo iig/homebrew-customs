@@ -1,4 +1,4 @@
-class Kafka < Formula
+class Kafka091 < Formula
   desc "Publish-subscribe messaging rethought as a distributed commit log"
   homepage "https://kafka.apache.org"
   url "http://mirrors.ibiblio.org/apache/kafka/0.9.0.1/kafka-0.9.0.1-src.tgz"
